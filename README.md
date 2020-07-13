@@ -8,5 +8,5 @@
   - :video_game: Gosto de jogar nas horas vagas
   - 💬 Apaixonado por tecnolgias Web e em breve começar a conhecer o mundo do mobile
   - 👨‍💻 **Tecnologias**: HTML, CSS, JavaScript, Node.js, GraphQl e sempre aprendendo novas tecnologias!
-  - **Ferremantas** : VS Code, Git
+  - :wrench: **Ferremantas** : VS Code, Git
   - 🎓 **Graduação**: Técnologo em Análise e Desenvolvimento de Sistemas
