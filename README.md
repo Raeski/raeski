@@ -6,7 +6,7 @@
 
   - :earth_americas: Sou de Uberlândia/MG
   - :video_game: Gosto de jogar nas horas vagas
-  - 💬 Apaixonado por tecnolgias Web e em breve começar a conhecer o mundo do mobile
-  - 👨‍💻 **Tecnologias**: HTML, CSS, JavaScript, Node.js, GraphQl e sempre aprendendo novas tecnologias!
-  - :wrench: **Ferremantas** : VS Code, Git
+  - 💬 Apaixonado pelo mundo da tecnologia e desenvolvimento
+  - 👨‍💻 **Tecnologias**: HTML, CSS, JavaScript, Node.js, JQUERY e em busca de novos conhecimentos!
+  - :wrench: **Ferremantas** : VS Code, Git, Intellij
   - 🎓 **Graduação**: Técnologo em Análise e Desenvolvimento de Sistemas
