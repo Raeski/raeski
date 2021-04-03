@@ -7,6 +7,6 @@
   - :earth_americas: Sou de Uberlândia/MG
   - :video_game: Gosto de jogar nas horas vagas
   - 💬 Apaixonado pelo mundo da tecnologia e desenvolvimento
-  - 👨‍💻 **Tecnologias**: JavaScript, Java, Spring, Jpa, ReactJs, Jquery e em busca de novos conhecimentos!
-  - :wrench: **Ferremantas** : VS Code, Git, Intellij
+  - 👨‍💻 **Tecnologias**: Java, Spring Boot, Jpa, JavaScript, ReactJs, Jquery e sempre em busca de novos conhecimentos!
+  - :wrench: **Ferremantas** : Intellij, VS Code, Git, 
   - 🎓 **Graduação**: Técnologo em Análise e Desenvolvimento de Sistemas
